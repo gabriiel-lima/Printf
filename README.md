@@ -1,6 +1,8 @@
-*This project has been created as part of the 42 curriculum by garodri2*
+<p align="center">
+  <img src="https://github.com/gabriiel-lima/Ft_printf/blob/main/Ft_printf/Printf.png" width="1150">
+</p>
 
-# ft_printf
+*This project has been created as part of the 42 curriculum by garodri2*
 
 # Description
 
